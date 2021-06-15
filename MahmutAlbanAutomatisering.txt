@@ -1,2 +1,0 @@
-
-Project link: https://github.com/mahmutalban/Test-Automation-with-CI
